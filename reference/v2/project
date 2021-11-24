@@ -1,0 +1,12 @@
+INCLUDE_PATH = include
+
+SRC_PATH = src/file src/memory src/process_control src/process_environment src/signal src/thread_control src/tool test
+
+OBJ_PATH = obj
+
+BIN_PATH = bin
+
+OUTPUT_FILE = test
+
+# VERSION = debug or release
+VERSION = debug
